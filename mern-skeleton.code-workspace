@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.fontSize": 11,
+    "debug.console.fontSize": 11,
+    "terminal.integrated.fontSize": 11,
+    "workbench.colorCustomizations": {
+      "statusBar.background": "#413f3f"
+    }
+  }
+}
